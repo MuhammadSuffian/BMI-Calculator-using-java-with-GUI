@@ -1,5 +1,5 @@
 <h2>BMI Calculator:</h2> A based Java GUI Application for Body Mass Index (BMI) Calculation
-<br>
+<br><br>
 This BMI Calculator is a comprehensive Java application with a graphical user interface (GUI) that allows users to calculate their BMI based on weight and height inputs. The program supports both pounds and kilograms for weight, as well as millimeters and feet/inches for height, providing flexibility for user preferences.
 <br><br>
 The GUI provides a user-friendly interface, featuring input fields for weight and height, along with a "Calculate" button to trigger the BMI calculation. The application includes conversion functions to ensure consistent units for weight and height, allowing accurate calculations.
